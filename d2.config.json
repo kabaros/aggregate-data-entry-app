@@ -10,5 +10,14 @@
   "description": "",
   "entryPoints": {
     "app": "index.html"
-  }
+  },
+  "shortcuts": [
+    {
+      "name": "Aggregate form",
+      "url": "#/aggregate-form"
+    },{
+      "name": "Custom form",
+      "url": "#/custom-form"
+    }
+  ]
 }

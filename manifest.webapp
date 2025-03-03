@@ -20,5 +20,14 @@
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
-  "scope": "."
+  "scope": ".",
+  "shortcuts": [
+    {
+      "name": "Aggregate form",
+      "url": "#/aggregate-form"
+    },{
+      "name": "Custom form",
+      "url": "#/custom-form"
+    }
+  ]
 }
